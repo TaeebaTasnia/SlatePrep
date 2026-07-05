@@ -1,0 +1,307 @@
+{
+  "session_id": "b5a27f4e-398b-43d1-8e0c-501be76d3cef",
+  "sections": [
+    6,
+    8,
+    9
+  ],
+  "is_first_run": false,
+  "score": {
+    "correct": 10,
+    "total": 15,
+    "pct": 66.7
+  },
+  "questions": [
+    {
+      "question": "What is the name of the parent organization of SLATEFALL?",
+      "choices": {
+        "A": "Pan-American Metahuman Cooperative (PAMC)",
+        "B": "Chilean Army",
+        "C": "Argentine Federal Intelligence",
+        "D": "Cooperative Bureau of Metahuman Physics (CBMP)"
+      },
+      "correct_answer": "A",
+      "explanation": "The parent organization of SLATEFALL is the Pan-American Metahuman Cooperative (PAMC), as stated in the provided text.",
+      "topic_tags": [
+        "PAMC",
+        "SLATEFALL",
+        "Metahuman"
+      ],
+      "section_id": 6,
+      "user_answer": "B",
+      "is_correct": false,
+      "clarification": "Correct answer: A. The parent organization of SLATEFALL is the Pan-American Metahuman Cooperative (PAMC), as stated in the provided text."
+    },
+    {
+      "question": "What is the metahuman classification of Lt. Sol\u00e8ne Bauer-Cortez?",
+      "choices": {
+        "A": "Class A-1",
+        "B": "Class A-2",
+        "C": "Class C-1 (Electromagnetic Sensing)",
+        "D": "Class B-2"
+      },
+      "correct_answer": "C",
+      "explanation": "Lt. Sol\u00e8ne Bauer-Cortez has a metahuman classification of Class C-1 (Electromagnetic Sensing), which allows her to perceive EM emissions from 30 Hz to 6 GHz within 80 m.",
+      "topic_tags": [
+        "Metahuman",
+        "Classification",
+        "Electromagnetic"
+      ],
+      "section_id": 6,
+      "user_answer": "A",
+      "is_correct": false,
+      "clarification": "Correct answer: C. Lt. Sol\u00e8ne Bauer-Cortez has a metahuman classification of Class C-1 (Electromagnetic Sensing), which allows her to perceive EM emissions from 30 Hz to 6 GHz within 80 m."
+    },
+    {
+      "question": "What is the name of the Director-General of the Pan-American Metahuman Cooperative (PAMC)?",
+      "choices": {
+        "A": "Mar\u00eda-Elena Esp\u00f3sito-Tagle",
+        "B": "A\u00edda Salvatierra-Bunge",
+        "C": "L\u00e9on Marr\u00f3n-Saavedra",
+        "D": "Maite Borghi-Castelnuovo"
+      },
+      "correct_answer": "A",
+      "explanation": "The Director-General of the Pan-American Metahuman Cooperative (PAMC) is Mar\u00eda-Elena Esp\u00f3sito-Tagle, who is serving a term from 2022 to 2027.",
+      "topic_tags": [
+        "PAMC",
+        "Director-General",
+        "Leadership"
+      ],
+      "section_id": 6,
+      "user_answer": "A",
+      "is_correct": true
+    },
+    {
+      "question": "What is the role of Cpl. Ra\u00fal Vendrame in Cell Halc\u00f3n?",
+      "choices": {
+        "A": "Lead Officer",
+        "B": "Technical Specialist",
+        "C": "Tracker / Recon",
+        "D": "Field Medic"
+      },
+      "correct_answer": "D",
+      "explanation": "Cpl. Ra\u00fal Vendrame is the Field Medic of Cell Halc\u00f3n, providing medical support during operations.",
+      "topic_tags": [
+        "Cell Halc\u00f3n",
+        "Field Medic",
+        "Cpl. Ra\u00fal Vendrame"
+      ],
+      "section_id": 6,
+      "user_answer": "C",
+      "is_correct": false,
+      "clarification": "Correct answer: D. Cpl. Ra\u00fal Vendrame is the Field Medic of Cell Halc\u00f3n, providing medical support during operations."
+    },
+    {
+      "question": "How many registered operatives are there in the Pan-American Metahuman Cooperative (PAMC) as of 1 January 2026?",
+      "choices": {
+        "A": "100",
+        "B": "150",
+        "C": "217",
+        "D": "300"
+      },
+      "correct_answer": "C",
+      "explanation": "There are 217 registered operatives in the Pan-American Metahuman Cooperative (PAMC) as of 1 January 2026.",
+      "topic_tags": [
+        "PAMC",
+        "Operatives",
+        "Registration"
+      ],
+      "section_id": 6,
+      "user_answer": "D",
+      "is_correct": false,
+      "clarification": "Correct answer: C. There are 217 registered operatives in the Pan-American Metahuman Cooperative (PAMC) as of 1 January 2026."
+    },
+    {
+      "question": "What is the primary function of the Edificio Marasol base in Lima?",
+      "choices": {
+        "A": "Field office for Bolivian altiplano operations",
+        "B": "PAMC Headquarters where the asset rotates through quarterly for senior briefings",
+        "C": "Logistics-only annex for southern operations",
+        "D": "Regional CBMP medical office"
+      },
+      "correct_answer": "B",
+      "explanation": "The Edificio Marasol base in Lima serves as the PAMC Headquarters where the asset attends senior briefings on a quarterly basis.",
+      "topic_tags": [
+        "PAMC",
+        "Bases",
+        "Operations"
+      ],
+      "section_id": 8,
+      "user_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question": "What is the status of the S-4 safehouse in Antofagasta, Antofagasta?",
+      "choices": {
+        "A": "Inactive due to damage",
+        "B": "Active, with no recent changes",
+        "C": "Active, rebuilt in 2024 after damage",
+        "D": "Under construction"
+      },
+      "correct_answer": "C",
+      "explanation": "The S-4 safehouse in Antofagasta was damaged but has been rebuilt and is currently active.",
+      "topic_tags": [
+        "Safehouses",
+        "Operations",
+        "Infrastructure"
+      ],
+      "section_id": 8,
+      "user_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question": "What is the purpose of the micro-cache network maintained by the asset?",
+      "choices": {
+        "A": "To store sensitive documents",
+        "B": "To provide supply caches for operations",
+        "C": "To serve as communication relay points",
+        "D": "To house backup personnel"
+      },
+      "correct_answer": "B",
+      "explanation": "The micro-cache network is designed to provide the asset with supply caches containing essential items such as food, medical supplies, and communication equipment.",
+      "topic_tags": [
+        "Micro-Caches",
+        "Operations",
+        "Logistics"
+      ],
+      "section_id": 8,
+      "user_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question": "What is the reason for the restriction on the Cerro Castillo exclusion ring?",
+      "choices": {
+        "A": "Strategic; ongoing classified PAMC investigation",
+        "B": "Jurisdictional; pending bilateral agreement",
+        "C": "Psychological; CBMP recommendation",
+        "D": "Environmental; conservation efforts"
+      },
+      "correct_answer": "C",
+      "explanation": "The Cerro Castillo exclusion ring is restricted due to psychological reasons, as recommended by the CBMP since 2020, following an incident in 2018.",
+      "topic_tags": [
+        "Restricted Zones",
+        "CBMP",
+        "Psychological"
+      ],
+      "section_id": 8,
+      "user_answer": "C",
+      "is_correct": true
+    },
+    {
+      "question": "What is the nature of the agreement between the asset and the Bolivian Servicio de Operaciones Especiales (SOE)?",
+      "choices": {
+        "A": "Adversarial; the asset operates to counter SOE activities",
+        "B": "Bilateral cooperation framework for La Paz operations",
+        "C": "Competitive; the asset and SOE have overlapping objectives",
+        "D": "Hierarchical; the asset is subordinate to SOE in Bolivian operations"
+      },
+      "correct_answer": "B",
+      "explanation": "The asset has a bilateral cooperation framework with the Bolivian Servicio de Operaciones Especiales (SOE), facilitating collaborative efforts in La Paz operations.",
+      "topic_tags": [
+        "Territorial Agreements",
+        "Bolivia",
+        "Cooperation"
+      ],
+      "section_id": 8,
+      "user_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question": "What is the format for recording case files in PAMC?",
+      "choices": {
+        "A": "Case number (year-sequence), Location, Classification, Outcome",
+        "B": "Case number (year-sequence), Date (start\u2013end), Location (city, province, country), Classification (open / classified / declassified), Outcome",
+        "C": "Location (city, province, country), Date (start\u2013end), Case number (year-sequence)",
+        "D": "Outcome, PAMC casualties, Adversary casualties, Post-action notes"
+      },
+      "correct_answer": "B",
+      "explanation": "The PAMC format includes case number, date, location, classification, outcome, and other details as specified in section 9.1.",
+      "topic_tags": [
+        "PAMC",
+        "case files",
+        "format"
+      ],
+      "section_id": 9,
+      "user_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question": "What was the outcome of Case 2024-0202: Quebrantadero Showdown?",
+      "choices": {
+        "A": "Successful",
+        "B": "Pyrrhic",
+        "C": "Inconclusive",
+        "D": "Catastrophic"
+      },
+      "correct_answer": "D",
+      "explanation": "The outcome of Case 2024-0202 was Catastrophic, with 11 civilian deaths and 27 civilian injuries.",
+      "topic_tags": [
+        "Quebrantadero",
+        "case outcome",
+        "PAMC"
+      ],
+      "section_id": 9,
+      "user_answer": "D",
+      "is_correct": true
+    },
+    {
+      "question": "In which case was the Drift Read ability first operationally validated?",
+      "choices": {
+        "A": "Case 2019-0017: Probationary Assessment",
+        "B": "Case 2020-0048: Antofagasta Containment",
+        "C": "Case 2021-0091: Atacama Altiplano",
+        "D": "Case 2024-0034: Tarapac\u00e1 Concession Raid"
+      },
+      "correct_answer": "C",
+      "explanation": "The Drift Read ability was first operationally validated in Case 2021-0091: Atacama Altiplano.",
+      "topic_tags": [
+        "Drift Read",
+        "case files",
+        "PAMC"
+      ],
+      "section_id": 9,
+      "user_answer": "D",
+      "is_correct": false,
+      "clarification": "Correct answer: C. The Drift Read ability was first operationally validated in Case 2021-0091: Atacama Altiplano."
+    },
+    {
+      "question": "What was the result of Case 2025-0019: Audiencia Counter-Audit?",
+      "choices": {
+        "A": "Audit upheld",
+        "B": "Audit reversed",
+        "C": "Procedural defensive action failed",
+        "D": "Underwriter referral confirmed"
+      },
+      "correct_answer": "B",
+      "explanation": "The outcome of Case 2025-0019 was Successful, with the audit reversed.",
+      "topic_tags": [
+        "Audiencia",
+        "case outcome",
+        "PAMC"
+      ],
+      "section_id": 9,
+      "user_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question": "What was the location of Case 2022-0123: Tropopausa First Engagement?",
+      "choices": {
+        "A": "Mendoza Free Trade Zone, Argentina",
+        "B": "Port District, Antofagasta, Chile",
+        "C": "Iquique, Tarapac\u00e1 Region, Chile",
+        "D": "Cerro Rico, Potos\u00ed, Bolivia"
+      },
+      "correct_answer": "A",
+      "explanation": "The location of Case 2022-0123 was the Mendoza Free Trade Zone, Argentina.",
+      "topic_tags": [
+        "Tropopausa",
+        "case files",
+        "location"
+      ],
+      "section_id": 9,
+      "user_answer": "A",
+      "is_correct": true
+    }
+  ],
+  "iteration": 2
+}

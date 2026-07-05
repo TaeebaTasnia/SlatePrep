@@ -1,0 +1,543 @@
+{
+  "snapshot_at": "2026-07-05T11:39:39.506909",
+  "total_sessions": 2,
+  "top_5_sessions": [
+    {
+      "session_id": "b5a27f4e-398b-43d1-8e0c-501be76d3cef",
+      "created_at": "2026-07-05T11:39:39.452298",
+      "sections": [
+        6,
+        8,
+        9
+      ],
+      "score": "10/15",
+      "weak_topics": [
+        "PAMC",
+        "Metahuman",
+        "SLATEFALL",
+        "Classification",
+        "Electromagnetic"
+      ],
+      "questions": [
+        {
+          "question_id": "f78287c8-5105-4a3f-af08-971643d6420e",
+          "section_id": 6,
+          "text": "What is the name of the parent organization of SLATEFALL?",
+          "choices": {
+            "A": "Pan-American Metahuman Cooperative (PAMC)",
+            "B": "Chilean Army",
+            "C": "Argentine Federal Intelligence",
+            "D": "Cooperative Bureau of Metahuman Physics (CBMP)"
+          },
+          "correct_answer": "A",
+          "explanation": "The parent organization of SLATEFALL is the Pan-American Metahuman Cooperative (PAMC), as stated in the provided text.",
+          "topic_tags": [
+            "PAMC",
+            "SLATEFALL",
+            "Metahuman"
+          ],
+          "user_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question_id": "8e157414-5f72-44ce-8faf-96f989a702ac",
+          "section_id": 6,
+          "text": "What is the metahuman classification of Lt. Sol\u00e8ne Bauer-Cortez?",
+          "choices": {
+            "A": "Class A-1",
+            "B": "Class A-2",
+            "C": "Class C-1 (Electromagnetic Sensing)",
+            "D": "Class B-2"
+          },
+          "correct_answer": "C",
+          "explanation": "Lt. Sol\u00e8ne Bauer-Cortez has a metahuman classification of Class C-1 (Electromagnetic Sensing), which allows her to perceive EM emissions from 30 Hz to 6 GHz within 80 m.",
+          "topic_tags": [
+            "Metahuman",
+            "Classification",
+            "Electromagnetic"
+          ],
+          "user_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question_id": "5d63c95c-0bf2-4b3b-b8e6-9d2dda498935",
+          "section_id": 6,
+          "text": "What is the name of the Director-General of the Pan-American Metahuman Cooperative (PAMC)?",
+          "choices": {
+            "A": "Mar\u00eda-Elena Esp\u00f3sito-Tagle",
+            "B": "A\u00edda Salvatierra-Bunge",
+            "C": "L\u00e9on Marr\u00f3n-Saavedra",
+            "D": "Maite Borghi-Castelnuovo"
+          },
+          "correct_answer": "A",
+          "explanation": "The Director-General of the Pan-American Metahuman Cooperative (PAMC) is Mar\u00eda-Elena Esp\u00f3sito-Tagle, who is serving a term from 2022 to 2027.",
+          "topic_tags": [
+            "PAMC",
+            "Director-General",
+            "Leadership"
+          ],
+          "user_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question_id": "064d7a79-3519-40c1-a0b7-780cd32297eb",
+          "section_id": 6,
+          "text": "What is the role of Cpl. Ra\u00fal Vendrame in Cell Halc\u00f3n?",
+          "choices": {
+            "A": "Lead Officer",
+            "B": "Technical Specialist",
+            "C": "Tracker / Recon",
+            "D": "Field Medic"
+          },
+          "correct_answer": "D",
+          "explanation": "Cpl. Ra\u00fal Vendrame is the Field Medic of Cell Halc\u00f3n, providing medical support during operations.",
+          "topic_tags": [
+            "Cell Halc\u00f3n",
+            "Field Medic",
+            "Cpl. Ra\u00fal Vendrame"
+          ],
+          "user_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question_id": "9073889a-5305-40b0-9129-b616c086e6bc",
+          "section_id": 6,
+          "text": "How many registered operatives are there in the Pan-American Metahuman Cooperative (PAMC) as of 1 January 2026?",
+          "choices": {
+            "A": "100",
+            "B": "150",
+            "C": "217",
+            "D": "300"
+          },
+          "correct_answer": "C",
+          "explanation": "There are 217 registered operatives in the Pan-American Metahuman Cooperative (PAMC) as of 1 January 2026.",
+          "topic_tags": [
+            "PAMC",
+            "Operatives",
+            "Registration"
+          ],
+          "user_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question_id": "2ccd8c95-5479-47b0-89ae-1cca038417c2",
+          "section_id": 8,
+          "text": "What is the primary function of the Edificio Marasol base in Lima?",
+          "choices": {
+            "A": "Field office for Bolivian altiplano operations",
+            "B": "PAMC Headquarters where the asset rotates through quarterly for senior briefings",
+            "C": "Logistics-only annex for southern operations",
+            "D": "Regional CBMP medical office"
+          },
+          "correct_answer": "B",
+          "explanation": "The Edificio Marasol base in Lima serves as the PAMC Headquarters where the asset attends senior briefings on a quarterly basis.",
+          "topic_tags": [
+            "PAMC",
+            "Bases",
+            "Operations"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "32be4c48-0962-4491-8c00-5e2415baa457",
+          "section_id": 8,
+          "text": "What is the status of the S-4 safehouse in Antofagasta, Antofagasta?",
+          "choices": {
+            "A": "Inactive due to damage",
+            "B": "Active, with no recent changes",
+            "C": "Active, rebuilt in 2024 after damage",
+            "D": "Under construction"
+          },
+          "correct_answer": "C",
+          "explanation": "The S-4 safehouse in Antofagasta was damaged but has been rebuilt and is currently active.",
+          "topic_tags": [
+            "Safehouses",
+            "Operations",
+            "Infrastructure"
+          ],
+          "user_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question_id": "c2ed9efe-541d-4560-a55a-db8f926f4820",
+          "section_id": 8,
+          "text": "What is the purpose of the micro-cache network maintained by the asset?",
+          "choices": {
+            "A": "To store sensitive documents",
+            "B": "To provide supply caches for operations",
+            "C": "To serve as communication relay points",
+            "D": "To house backup personnel"
+          },
+          "correct_answer": "B",
+          "explanation": "The micro-cache network is designed to provide the asset with supply caches containing essential items such as food, medical supplies, and communication equipment.",
+          "topic_tags": [
+            "Micro-Caches",
+            "Operations",
+            "Logistics"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "313f0829-861d-4c50-a217-ba930fdb878c",
+          "section_id": 8,
+          "text": "What is the reason for the restriction on the Cerro Castillo exclusion ring?",
+          "choices": {
+            "A": "Strategic; ongoing classified PAMC investigation",
+            "B": "Jurisdictional; pending bilateral agreement",
+            "C": "Psychological; CBMP recommendation",
+            "D": "Environmental; conservation efforts"
+          },
+          "correct_answer": "C",
+          "explanation": "The Cerro Castillo exclusion ring is restricted due to psychological reasons, as recommended by the CBMP since 2020, following an incident in 2018.",
+          "topic_tags": [
+            "Restricted Zones",
+            "CBMP",
+            "Psychological"
+          ],
+          "user_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question_id": "b2b8d5d7-de2b-4ba3-b52c-c96fbb4f529d",
+          "section_id": 8,
+          "text": "What is the nature of the agreement between the asset and the Bolivian Servicio de Operaciones Especiales (SOE)?",
+          "choices": {
+            "A": "Adversarial; the asset operates to counter SOE activities",
+            "B": "Bilateral cooperation framework for La Paz operations",
+            "C": "Competitive; the asset and SOE have overlapping objectives",
+            "D": "Hierarchical; the asset is subordinate to SOE in Bolivian operations"
+          },
+          "correct_answer": "B",
+          "explanation": "The asset has a bilateral cooperation framework with the Bolivian Servicio de Operaciones Especiales (SOE), facilitating collaborative efforts in La Paz operations.",
+          "topic_tags": [
+            "Territorial Agreements",
+            "Bolivia",
+            "Cooperation"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "ffbb2e60-3bed-4687-b947-90a16a719d15",
+          "section_id": 9,
+          "text": "What is the format for recording case files in PAMC?",
+          "choices": {
+            "A": "Case number (year-sequence), Location, Classification, Outcome",
+            "B": "Case number (year-sequence), Date (start\u2013end), Location (city, province, country), Classification (open / classified / declassified), Outcome",
+            "C": "Location (city, province, country), Date (start\u2013end), Case number (year-sequence)",
+            "D": "Outcome, PAMC casualties, Adversary casualties, Post-action notes"
+          },
+          "correct_answer": "B",
+          "explanation": "The PAMC format includes case number, date, location, classification, outcome, and other details as specified in section 9.1.",
+          "topic_tags": [
+            "PAMC",
+            "case files",
+            "format"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "239aab3f-7014-4ada-9ffe-479a8e1ec8ff",
+          "section_id": 9,
+          "text": "What was the outcome of Case 2024-0202: Quebrantadero Showdown?",
+          "choices": {
+            "A": "Successful",
+            "B": "Pyrrhic",
+            "C": "Inconclusive",
+            "D": "Catastrophic"
+          },
+          "correct_answer": "D",
+          "explanation": "The outcome of Case 2024-0202 was Catastrophic, with 11 civilian deaths and 27 civilian injuries.",
+          "topic_tags": [
+            "Quebrantadero",
+            "case outcome",
+            "PAMC"
+          ],
+          "user_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question_id": "bbcd671e-38cf-49a1-90e0-c7d1ada4e7b7",
+          "section_id": 9,
+          "text": "In which case was the Drift Read ability first operationally validated?",
+          "choices": {
+            "A": "Case 2019-0017: Probationary Assessment",
+            "B": "Case 2020-0048: Antofagasta Containment",
+            "C": "Case 2021-0091: Atacama Altiplano",
+            "D": "Case 2024-0034: Tarapac\u00e1 Concession Raid"
+          },
+          "correct_answer": "C",
+          "explanation": "The Drift Read ability was first operationally validated in Case 2021-0091: Atacama Altiplano.",
+          "topic_tags": [
+            "Drift Read",
+            "case files",
+            "PAMC"
+          ],
+          "user_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question_id": "dbb36954-bac7-475e-92d2-23723f007999",
+          "section_id": 9,
+          "text": "What was the result of Case 2025-0019: Audiencia Counter-Audit?",
+          "choices": {
+            "A": "Audit upheld",
+            "B": "Audit reversed",
+            "C": "Procedural defensive action failed",
+            "D": "Underwriter referral confirmed"
+          },
+          "correct_answer": "B",
+          "explanation": "The outcome of Case 2025-0019 was Successful, with the audit reversed.",
+          "topic_tags": [
+            "Audiencia",
+            "case outcome",
+            "PAMC"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "c0e89512-26e2-40b6-a568-cae3da3f21c6",
+          "section_id": 9,
+          "text": "What was the location of Case 2022-0123: Tropopausa First Engagement?",
+          "choices": {
+            "A": "Mendoza Free Trade Zone, Argentina",
+            "B": "Port District, Antofagasta, Chile",
+            "C": "Iquique, Tarapac\u00e1 Region, Chile",
+            "D": "Cerro Rico, Potos\u00ed, Bolivia"
+          },
+          "correct_answer": "A",
+          "explanation": "The location of Case 2022-0123 was the Mendoza Free Trade Zone, Argentina.",
+          "topic_tags": [
+            "Tropopausa",
+            "case files",
+            "location"
+          ],
+          "user_answer": "A",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "session_id": "5b5cf016-f61d-4379-a7ba-b45fb1712c2c",
+      "created_at": "2026-07-05T11:38:31.846088",
+      "sections": [
+        5,
+        8
+      ],
+      "score": "6/10",
+      "weak_topics": [
+        "Operational Tactics",
+        "DSS",
+        "Combat Doctrine",
+        "Three-Two-One Rule",
+        "Tactical Heuristic"
+      ],
+      "questions": [
+        {
+          "question_id": "4692689a-ac8c-4f0d-810d-22bbe6d59b6d",
+          "section_id": 5,
+          "text": "What is the core principle of the Doctrine of Sequential Suspension regarding suspension as a resource?",
+          "choices": {
+            "A": "Suspension is a continuous capability",
+            "B": "Suspension is a decisive resource, not a continuous capability",
+            "C": "Suspension is only used in emergency situations",
+            "D": "Suspension is not a relevant factor in combat"
+          },
+          "correct_answer": "B",
+          "explanation": "The Doctrine of Sequential Suspension states that suspension is a decisive resource, not a continuous capability, and should be treated as ammunition.",
+          "topic_tags": [
+            "DSS",
+            "Combat Doctrine",
+            "Operational Tactics"
+          ],
+          "user_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question_id": "6af87b6a-0c1c-4d93-8818-6f3a8c9473bd",
+          "section_id": 5,
+          "text": "What is the Three-Two-One Rule in the asset's signature tactical heuristic?",
+          "choices": {
+            "A": "Three activations minimum per 60-second window, one active sightline, and no extraction route",
+            "B": "Three activations maximum per 60-second window, two active sightlines, and one pre-anchored extraction route",
+            "C": "Two activations maximum per 60-second window, one active sightline, and no extraction route",
+            "D": "One activation maximum per 60-second window, three active sightlines, and no extraction route"
+          },
+          "correct_answer": "B",
+          "explanation": "The Three-Two-One Rule states that the asset should have three activations maximum per 60-second window, maintain two active sightlines at any moment, and hold one pre-anchored extraction route in reserve.",
+          "topic_tags": [
+            "Three-Two-One Rule",
+            "Tactical Heuristic",
+            "Operational Tactics"
+          ],
+          "user_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question_id": "4b32a5de-ec89-48b8-93e3-f753f866c775",
+          "section_id": 5,
+          "text": "What is the purpose of the Tail-Strike Technique?",
+          "choices": {
+            "A": "To deliver a linear projectile motion",
+            "B": "To exploit Tail Momentum and deliver compounded impacts",
+            "C": "To create a kinetic-cover zone",
+            "D": "To suspend multiple objects in mid-air"
+          },
+          "correct_answer": "B",
+          "explanation": "The Tail-Strike Technique exploits Tail Momentum to deliver compounded impacts that cannot be achieved by linear projectile motion alone.",
+          "topic_tags": [
+            "Tail-Strike Technique",
+            "Operational Tactics",
+            "Combat Doctrine"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "54adb928-e81f-455e-8cc4-92c224ac9d44",
+          "section_id": 5,
+          "text": "What is the standard activation pattern around the contact-exclusion rule?",
+          "choices": {
+            "A": "Drop-Tune Manoeuvre",
+            "B": "Suspended Field Technique",
+            "C": "Tail-Strike Technique",
+            "D": "Mountain-Warfare Carryover Doctrine"
+          },
+          "correct_answer": "A",
+          "explanation": "The Drop-Tune Manoeuvre is the standard activation pattern around the contact-exclusion rule, which permits a meaningful one-second window between release and engagement target acquisition.",
+          "topic_tags": [
+            "Drop-Tune Manoeuvre",
+            "Contact-Exclusion Rule",
+            "Operational Tactics"
+          ],
+          "user_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question_id": "a4966fa3-2614-4ca2-b4ac-1b43646e4bd9",
+          "section_id": 5,
+          "text": "What is the civilian collateral threshold specified by PAMC Standing Order 9?",
+          "choices": {
+            "A": "50% confidence that no civilian harm will occur",
+            "B": "80% confidence that no civilian harm will occur",
+            "C": "90% confidence that no civilian harm will occur",
+            "D": "100% confidence that no civilian harm will occur"
+          },
+          "correct_answer": "B",
+          "explanation": "PAMC Standing Order 9 specifies a zero-tolerance threshold below 80% confidence that no civilian harm will occur from any planned activation.",
+          "topic_tags": [
+            "Civilian Collateral Threshold",
+            "PAMC Standing Order 9",
+            "Operational Tactics"
+          ],
+          "user_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question_id": "03158485-c720-4d16-8124-4f7203066a73",
+          "section_id": 8,
+          "text": "What is the total floor area of Cuartel Valpara\u00edso, the asset's primary operational base?",
+          "choices": {
+            "A": "3,820 m\u00b2",
+            "B": "4,820 m\u00b2",
+            "C": "5,820 m\u00b2",
+            "D": "6,820 m\u00b2"
+          },
+          "correct_answer": "B",
+          "explanation": "The total floor area of Cuartel Valpara\u00edso is given as 4,820 m\u00b2 in the document.",
+          "topic_tags": [
+            "Cuartel Valpara\u00edso",
+            "PAMC",
+            "Operational Base"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "68172a0d-bda1-4152-9063-446bb7de3594",
+          "section_id": 8,
+          "text": "What is the name of the city where the asset has a field office for Bolivian altiplano operations?",
+          "choices": {
+            "A": "La Paz",
+            "B": "Lima",
+            "C": "Valpara\u00edso",
+            "D": "Trelew"
+          },
+          "correct_answer": "A",
+          "explanation": "The field office for Bolivian altiplano operations is located in La Paz, as stated in the document.",
+          "topic_tags": [
+            "PAMC",
+            "Bolivia",
+            "Field Office"
+          ],
+          "user_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question_id": "c80effb5-3f87-4f41-a21e-113b58a3c70e",
+          "section_id": 8,
+          "text": "How many micro-caches are maintained by the asset across the Andean cordillera?",
+          "choices": {
+            "A": "10",
+            "B": "15",
+            "C": "19",
+            "D": "25"
+          },
+          "correct_answer": "C",
+          "explanation": "The asset maintains a network of 19 micro-caches distributed across the Andean cordillera, as stated in the document.",
+          "topic_tags": [
+            "Micro-Cache",
+            "Andean Cordillera",
+            "PAMC"
+          ],
+          "user_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question_id": "c4ce4dca-66bf-49f7-bbb7-a47a3f00a320",
+          "section_id": 8,
+          "text": "What is the approximate area of the asset's authorized operational territory?",
+          "choices": {
+            "A": "5 million km\u00b2",
+            "B": "6.8 million km\u00b2",
+            "C": "7.8 million km\u00b2",
+            "D": "8.8 million km\u00b2"
+          },
+          "correct_answer": "B",
+          "explanation": "The asset's authorized operational territory spans approximately 6.8 million km\u00b2, as stated in the document.",
+          "topic_tags": [
+            "Operational Territory",
+            "PAMC",
+            "Andean States"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "1a8a4bf0-7bf7-403c-acb0-b2ee7f8ecbb8",
+          "section_id": 8,
+          "text": "How many burst-relay nodes are there within the PAMC Yatiri network serving the asset's operational territory?",
+          "choices": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_answer": "D",
+          "explanation": "There are 8 burst-relay nodes within the PAMC Yatiri network serving the asset's operational territory, as stated in the document.",
+          "topic_tags": [
+            "Yatiri Network",
+            "PAMC",
+            "Communications Infrastructure"
+          ],
+          "user_answer": "D",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

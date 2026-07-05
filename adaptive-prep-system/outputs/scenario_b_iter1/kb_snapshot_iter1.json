@@ -1,0 +1,224 @@
+{
+  "snapshot_at": "2026-07-05T11:38:31.918759",
+  "total_sessions": 1,
+  "top_5_sessions": [
+    {
+      "session_id": "5b5cf016-f61d-4379-a7ba-b45fb1712c2c",
+      "created_at": "2026-07-05T11:38:31.846088",
+      "sections": [
+        5,
+        8
+      ],
+      "score": "6/10",
+      "weak_topics": [
+        "Operational Tactics",
+        "DSS",
+        "Combat Doctrine",
+        "Three-Two-One Rule",
+        "Tactical Heuristic"
+      ],
+      "questions": [
+        {
+          "question_id": "4692689a-ac8c-4f0d-810d-22bbe6d59b6d",
+          "section_id": 5,
+          "text": "What is the core principle of the Doctrine of Sequential Suspension regarding suspension as a resource?",
+          "choices": {
+            "A": "Suspension is a continuous capability",
+            "B": "Suspension is a decisive resource, not a continuous capability",
+            "C": "Suspension is only used in emergency situations",
+            "D": "Suspension is not a relevant factor in combat"
+          },
+          "correct_answer": "B",
+          "explanation": "The Doctrine of Sequential Suspension states that suspension is a decisive resource, not a continuous capability, and should be treated as ammunition.",
+          "topic_tags": [
+            "DSS",
+            "Combat Doctrine",
+            "Operational Tactics"
+          ],
+          "user_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question_id": "6af87b6a-0c1c-4d93-8818-6f3a8c9473bd",
+          "section_id": 5,
+          "text": "What is the Three-Two-One Rule in the asset's signature tactical heuristic?",
+          "choices": {
+            "A": "Three activations minimum per 60-second window, one active sightline, and no extraction route",
+            "B": "Three activations maximum per 60-second window, two active sightlines, and one pre-anchored extraction route",
+            "C": "Two activations maximum per 60-second window, one active sightline, and no extraction route",
+            "D": "One activation maximum per 60-second window, three active sightlines, and no extraction route"
+          },
+          "correct_answer": "B",
+          "explanation": "The Three-Two-One Rule states that the asset should have three activations maximum per 60-second window, maintain two active sightlines at any moment, and hold one pre-anchored extraction route in reserve.",
+          "topic_tags": [
+            "Three-Two-One Rule",
+            "Tactical Heuristic",
+            "Operational Tactics"
+          ],
+          "user_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question_id": "4b32a5de-ec89-48b8-93e3-f753f866c775",
+          "section_id": 5,
+          "text": "What is the purpose of the Tail-Strike Technique?",
+          "choices": {
+            "A": "To deliver a linear projectile motion",
+            "B": "To exploit Tail Momentum and deliver compounded impacts",
+            "C": "To create a kinetic-cover zone",
+            "D": "To suspend multiple objects in mid-air"
+          },
+          "correct_answer": "B",
+          "explanation": "The Tail-Strike Technique exploits Tail Momentum to deliver compounded impacts that cannot be achieved by linear projectile motion alone.",
+          "topic_tags": [
+            "Tail-Strike Technique",
+            "Operational Tactics",
+            "Combat Doctrine"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "54adb928-e81f-455e-8cc4-92c224ac9d44",
+          "section_id": 5,
+          "text": "What is the standard activation pattern around the contact-exclusion rule?",
+          "choices": {
+            "A": "Drop-Tune Manoeuvre",
+            "B": "Suspended Field Technique",
+            "C": "Tail-Strike Technique",
+            "D": "Mountain-Warfare Carryover Doctrine"
+          },
+          "correct_answer": "A",
+          "explanation": "The Drop-Tune Manoeuvre is the standard activation pattern around the contact-exclusion rule, which permits a meaningful one-second window between release and engagement target acquisition.",
+          "topic_tags": [
+            "Drop-Tune Manoeuvre",
+            "Contact-Exclusion Rule",
+            "Operational Tactics"
+          ],
+          "user_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question_id": "a4966fa3-2614-4ca2-b4ac-1b43646e4bd9",
+          "section_id": 5,
+          "text": "What is the civilian collateral threshold specified by PAMC Standing Order 9?",
+          "choices": {
+            "A": "50% confidence that no civilian harm will occur",
+            "B": "80% confidence that no civilian harm will occur",
+            "C": "90% confidence that no civilian harm will occur",
+            "D": "100% confidence that no civilian harm will occur"
+          },
+          "correct_answer": "B",
+          "explanation": "PAMC Standing Order 9 specifies a zero-tolerance threshold below 80% confidence that no civilian harm will occur from any planned activation.",
+          "topic_tags": [
+            "Civilian Collateral Threshold",
+            "PAMC Standing Order 9",
+            "Operational Tactics"
+          ],
+          "user_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question_id": "03158485-c720-4d16-8124-4f7203066a73",
+          "section_id": 8,
+          "text": "What is the total floor area of Cuartel Valpara\u00edso, the asset's primary operational base?",
+          "choices": {
+            "A": "3,820 m\u00b2",
+            "B": "4,820 m\u00b2",
+            "C": "5,820 m\u00b2",
+            "D": "6,820 m\u00b2"
+          },
+          "correct_answer": "B",
+          "explanation": "The total floor area of Cuartel Valpara\u00edso is given as 4,820 m\u00b2 in the document.",
+          "topic_tags": [
+            "Cuartel Valpara\u00edso",
+            "PAMC",
+            "Operational Base"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "68172a0d-bda1-4152-9063-446bb7de3594",
+          "section_id": 8,
+          "text": "What is the name of the city where the asset has a field office for Bolivian altiplano operations?",
+          "choices": {
+            "A": "La Paz",
+            "B": "Lima",
+            "C": "Valpara\u00edso",
+            "D": "Trelew"
+          },
+          "correct_answer": "A",
+          "explanation": "The field office for Bolivian altiplano operations is located in La Paz, as stated in the document.",
+          "topic_tags": [
+            "PAMC",
+            "Bolivia",
+            "Field Office"
+          ],
+          "user_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question_id": "c80effb5-3f87-4f41-a21e-113b58a3c70e",
+          "section_id": 8,
+          "text": "How many micro-caches are maintained by the asset across the Andean cordillera?",
+          "choices": {
+            "A": "10",
+            "B": "15",
+            "C": "19",
+            "D": "25"
+          },
+          "correct_answer": "C",
+          "explanation": "The asset maintains a network of 19 micro-caches distributed across the Andean cordillera, as stated in the document.",
+          "topic_tags": [
+            "Micro-Cache",
+            "Andean Cordillera",
+            "PAMC"
+          ],
+          "user_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question_id": "c4ce4dca-66bf-49f7-bbb7-a47a3f00a320",
+          "section_id": 8,
+          "text": "What is the approximate area of the asset's authorized operational territory?",
+          "choices": {
+            "A": "5 million km\u00b2",
+            "B": "6.8 million km\u00b2",
+            "C": "7.8 million km\u00b2",
+            "D": "8.8 million km\u00b2"
+          },
+          "correct_answer": "B",
+          "explanation": "The asset's authorized operational territory spans approximately 6.8 million km\u00b2, as stated in the document.",
+          "topic_tags": [
+            "Operational Territory",
+            "PAMC",
+            "Andean States"
+          ],
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question_id": "1a8a4bf0-7bf7-403c-acb0-b2ee7f8ecbb8",
+          "section_id": 8,
+          "text": "How many burst-relay nodes are there within the PAMC Yatiri network serving the asset's operational territory?",
+          "choices": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_answer": "D",
+          "explanation": "There are 8 burst-relay nodes within the PAMC Yatiri network serving the asset's operational territory, as stated in the document.",
+          "topic_tags": [
+            "Yatiri Network",
+            "PAMC",
+            "Communications Infrastructure"
+          ],
+          "user_answer": "D",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

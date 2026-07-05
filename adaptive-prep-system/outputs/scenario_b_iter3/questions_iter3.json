@@ -1,0 +1,114 @@
+{
+  "session_id": "d279d2b0-1792-4826-be6d-1864dbd561f5",
+  "sections": [
+    8
+  ],
+  "is_first_run": false,
+  "score": {
+    "correct": 1,
+    "total": 5,
+    "pct": 20.0
+  },
+  "questions": [
+    {
+      "question": "What is the total floor area of the Cuartel Valpara\u00edso facility?",
+      "choices": {
+        "A": "3,820 m\u00b2",
+        "B": "4,820 m\u00b2",
+        "C": "5,820 m\u00b2",
+        "D": "6,820 m\u00b2"
+      },
+      "correct_answer": "B",
+      "explanation": "The total floor area of the Cuartel Valpara\u00edso facility is 4,820 m\u00b2, as stated in the document.",
+      "topic_tags": [
+        "Cuartel Valpara\u00edso",
+        "Facility Details",
+        "PAMC"
+      ],
+      "section_id": 8,
+      "user_answer": "A",
+      "is_correct": false,
+      "clarification": "Correct answer: B. The total floor area of the Cuartel Valpara\u00edso facility is 4,820 m\u00b2, as stated in the document."
+    },
+    {
+      "question": "How many personnel can the Cuartel Valpara\u00edso facility accommodate for residential purposes?",
+      "choices": {
+        "A": "28",
+        "B": "38",
+        "C": "48",
+        "D": "58"
+      },
+      "correct_answer": "B",
+      "explanation": "The Cuartel Valpara\u00edso facility has a personnel capacity of 38 for residential purposes.",
+      "topic_tags": [
+        "Cuartel Valpara\u00edso",
+        "Personnel Capacity",
+        "PAMC"
+      ],
+      "section_id": 8,
+      "user_answer": "A",
+      "is_correct": false,
+      "clarification": "Correct answer: B. The Cuartel Valpara\u00edso facility has a personnel capacity of 38 for residential purposes."
+    },
+    {
+      "question": "What is the name of the primary Yatiri relay node located at the Cuartel Valpara\u00edso facility?",
+      "choices": {
+        "A": "Yatiri-1",
+        "B": "Yatiri-2",
+        "C": "Yatiri-3",
+        "D": "Yatiri-4"
+      },
+      "correct_answer": "B",
+      "explanation": "The primary Yatiri relay node at the Cuartel Valpara\u00edso facility is not explicitly named in the provided text, but based on the context, the correct answer is not among the given choices. However, Yatiri-2 is mentioned as a backup comms unit in the safehouses, implying Yatiri-1 or another designation for the primary node. Since Yatiri-2 is the only Yatiri node mentioned, this question may have been poorly framed.",
+      "topic_tags": [
+        "Yatiri Relay Node",
+        "Cuartel Valpara\u00edso",
+        "PAMC"
+      ],
+      "section_id": 8,
+      "user_answer": "B",
+      "is_correct": true
+    },
+    {
+      "question": "What is the approximate area of the asset's authorized operational territory?",
+      "choices": {
+        "A": "4.8 million km\u00b2",
+        "B": "5.8 million km\u00b2",
+        "C": "6.8 million km\u00b2",
+        "D": "7.8 million km\u00b2"
+      },
+      "correct_answer": "C",
+      "explanation": "The asset's authorized operational territory spans approximately 6.8 million km\u00b2.",
+      "topic_tags": [
+        "Operational Territory",
+        "PAMC",
+        "Geography"
+      ],
+      "section_id": 8,
+      "user_answer": "D",
+      "is_correct": false,
+      "clarification": "Correct answer: C. The asset's authorized operational territory spans approximately 6.8 million km\u00b2."
+    },
+    {
+      "question": "How many burst-relay nodes are there within the PAMC Yatiri network serving the asset's operational territory?",
+      "choices": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "D",
+      "explanation": "There are 8 burst-relay nodes within the PAMC Yatiri network serving the asset's operational territory.",
+      "topic_tags": [
+        "Yatiri Network",
+        "PAMC",
+        "Communications Infrastructure"
+      ],
+      "section_id": 8,
+      "user_answer": "C",
+      "is_correct": false,
+      "clarification": "Correct answer: D. There are 8 burst-relay nodes within the PAMC Yatiri network serving the asset's operational territory."
+    }
+  ],
+  "iteration": 3
+}
